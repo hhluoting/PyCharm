@@ -40,6 +40,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PyExercise/Exercise001.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -86,7 +95,7 @@
             <path>
               <item name="luoting" type="b2602c69:ProjectViewProjectNode" />
               <item name="luoting" type="462c0819:PsiDirectoryNode" />
-              <item name="pyexercise" type="462c0819:PsiDirectoryNode" />
+              <item name="PyExercise" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -151,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1556856105178</updated>
       <workItem from="1556856120787" duration="788000" />
-      <workItem from="1556856997756" duration="7148000" />
+      <workItem from="1556856997756" duration="8499000" />
     </task>
     <task id="LOCAL-00001" summary="001">
       <created>1556856808631</created>
@@ -227,25 +236,25 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7936000" />
+    <option name="totallyTimeSpent" value="9287000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.2524013" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.2524013" />
       <window_info id="Structure" order="1" sideWeight="0.5016234" side_tool="true" visible="true" weight="0.2524013" />
       <window_info id="Favorites" order="2" sideWeight="0.5016234" side_tool="true" weight="0.2524013" />
       <window_info anchor="bottom" id="Messages" />
       <window_info active="true" anchor="bottom" id="SVN Repositories" sideWeight="0.4994664" weight="0.32897604" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994664" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4994664" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4994664" weight="0.39978212" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4994664" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4994664" weight="0.32897604" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053364" side_tool="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32897604" />
@@ -281,9 +290,6 @@
     <SUITE FILE_PATH="coverage/luoting$Exercise001.coverage" NAME="Exercise001 Coverage Results" MODIFIED="1556857840548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyexercise" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pyexercise/Exercise002.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/BATexercise/example5.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -298,14 +304,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyexercise/Exercise001.py">
+    <entry file="file://$PROJECT_DIR$/Android/Exercise1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyExercise/Exercise001.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Android/Exercise1">
+    <entry file="file://$PROJECT_DIR$/PyExercise/Exercise002.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
